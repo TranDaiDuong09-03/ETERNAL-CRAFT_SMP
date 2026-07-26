@@ -1,0 +1,11 @@
+# Copy this file to server.properties and set local secrets as needed.
+server-port=25566
+max-players=20
+motd=A Minecraft Server
+online-mode=true
+gamemode=survival
+difficulty=easy
+view-distance=10
+simulation-distance=10
+management-server-enabled=false
+management-server-secret=<local-only-secret>

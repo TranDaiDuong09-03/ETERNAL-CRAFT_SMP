@@ -1,0 +1,21 @@
+# Runtime and generated data
+/world/
+/logs/
+/cache/
+/libraries/
+/versions/
+/server.jar
+*.jar
+*.log
+*.log.gz
+session.lock
+
+# Local/server secrets and identity data
+/server.properties
+/usercache.json
+/banned-ips.json
+
+# Backups and temporary files
+*.backup
+*.bak
+*.tmp
